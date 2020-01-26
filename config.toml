@@ -1,0 +1,133 @@
+######################## default configuration ####################
+baseURL = "https://www.codetips.co.uk"
+languageCode = "en-us"
+title = "Code Tips | Learn to code using short, easy to understand, articles"
+theme = "liva"
+summaryLength = "10"
+paginate = 6
+disqusShortname = "codetips-1"
+
+[outputs]
+  home = ["HTML", "AMP", "RSS", "JSON"]
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/venobox/venobox.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/venobox/venobox.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+
+  
+############################## navigation ###############################
+[menu]
+  
+  # main menu
+  [[menu.main]]
+  name = "About"
+  URL = "about/about"
+  weight = 2
+  
+  #[[menu.main]]
+  #name = "Post"
+  #URL = "blog"
+  #weight = 3
+  
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 4
+
+  # footer menu
+  [[menu.footer]]
+  name = "About"
+  URL = "about/about"
+  weight = 2
+  
+  # [[menu.footer]]
+  # name = "Post"
+  # URL = "blog"
+  # weight = 3
+  
+  [[menu.footer]]
+  name = "Contact"
+  URL = "contact"
+  weight = 4
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "Learn to code  using short, easy to understand, articles"
+author = "Code Tips"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# Contact Information
+email = "info@codetips.co.uk"
+location = "London,England"
+# copyright
+copyright = "| @2019 [Code Tips](https://www.codetips.co.uk) All Rights Reserved |"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+
+  # search
+  [params.search]
+  enable = true
+
+############################ news letter ########################
+[params.newsletter]
+enable = true
+#title = "Join Our Newsletter"
+#content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+
+############################# social site ########################
+[[params.social]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/realcodetips"
+
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "http://twitter.com/realcodetips"
+
+[[params.social]]
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "http://instagram.com/realcodetips"
+
+[[params.social]]
+title = "github"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "https://github.com/realcodetips"
+
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "https://www.linkedin.com/company/codetips/"
