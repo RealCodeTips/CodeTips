@@ -1,11 +1,11 @@
 ######################## default configuration ####################
-baseURL = "https://www.codetips.co.uk"
+baseURL = "https://examplesite.com"
 languageCode = "en-us"
-title = "Code Tips | Learn to code using short, easy to understand, articles"
-theme = "hugo-liva"
+title = "Liva | Personal blog template"
+theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
-disqusShortname = "codetips-1"
+disqusShortname = ""
 
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]
@@ -49,10 +49,10 @@ disqusShortname = "codetips-1"
   URL = "about/about"
   weight = 2
   
-  #[[menu.main]]
-  #name = "Post"
-  #URL = "blog"
-  #weight = 3
+  [[menu.main]]
+  name = "Post"
+  URL = "blog"
+  weight = 3
   
   [[menu.main]]
   name = "Contact"
@@ -65,10 +65,10 @@ disqusShortname = "codetips-1"
   URL = "about/about"
   weight = 2
   
-  # [[menu.footer]]
-  # name = "Post"
-  # URL = "blog"
-  # weight = 3
+  [[menu.footer]]
+  name = "Post"
+  URL = "blog"
+  weight = 3
   
   [[menu.footer]]
   name = "Contact"
@@ -81,16 +81,16 @@ disqusShortname = "codetips-1"
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "Learn to code  using short, easy to understand, articles"
-author = "Code Tips"
+description = "This is meta description"
+author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-email = "info@codetips.co.uk"
-# location = "London,England"
-# mobile = "123456788"
+mobile = "0124857985320"
+email = "demo@email.com"
+location = "Dhaka, Bangladedsh"
 # copyright
-copyright = "| @2019 [Code Tips](https://www.codetips.co.uk) All Rights Reserved |"
+copyright = "| @2019 [Themefisher](https://themefisher.com) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
@@ -101,37 +101,34 @@ copyright = "| @2019 [Code Tips](https://www.codetips.co.uk) All Rights Reserved
   [params.search]
   enable = true
 
-[params.about]
-enable = false
-
 ############################ news letter ########################
 [params.newsletter]
 enable = true
-#title = "Join Our Newsletter"
-#content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+title = "Join Our Newsletter"
+content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
 
 ############################# social site ########################
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/realcodetips"
+link = "#"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "http://twitter.com/realcodetips"
+link = "#"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "http://instagram.com/realcodetips"
+link = "#"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/realcodetips"
+link = "#"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "https://www.linkedin.com/company/codetips/"
+link = "#"
