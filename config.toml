@@ -2,7 +2,7 @@
 baseURL = "https://www.codetips.co.uk"
 languageCode = "en-us"
 title = "Code Tips | Learn to code using short, easy to understand, articles"
-theme = "hugo-liva"
+theme = "liva"
 summaryLength = "10"
 paginate = 6
 disqusShortname = "codetips-1"

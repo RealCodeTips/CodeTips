@@ -1,13 +1,21 @@
-+++
-author = "Simon Drake"
-date = 2019-03-14T12:14:32Z
-description = ""
-draft = false
-image = "https://images.unsplash.com/photo-1526649661456-89c7ed4d00b8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
-slug = "about"
-title = "About"
+---
+title: "About"
+date: 2019-03-14T12:14:32Z
+draft: false
 
-+++
+# image
+image: "https://images.unsplash.com/photo-1526649661456-89c7ed4d00b8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
+
+# meta description
+description: ""
+
+# type
+type: "about"
+
+author: "Simon Drake"
+slug: "about"
+title: "About"
+---
 
 
 ### Welcome to Code Tips!
