@@ -1,6 +1,6 @@
 ---
-title: "What is a variable"
-date: 2019-03-16T00:00:00Z
+title: "What is a variable?"
+date: 2019-03-16T08:55:00Z
 draft: false
 author: "Simon Drake"
 
