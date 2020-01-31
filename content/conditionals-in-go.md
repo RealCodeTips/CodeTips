@@ -11,8 +11,8 @@ image: "/images/post/conditionals_in_go.jpg"
 description: "Conditional statements can be used to make decisions on what action(s) to take in a programme. "
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Coding Challenges"
 tags:
   - "Go"
   - "Beginner"
