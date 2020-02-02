@@ -1,5 +1,6 @@
 ######################## default configuration ####################
 # baseURL = "https://www.codetips.co.uk"
+baseURL = "http://localhost:1313"
 languageCode = "en-us"
 title = "Code Tips | Learn to code using short, easy to understand, articles"
 theme = "liva"
@@ -16,12 +17,12 @@ disqusShortname = "codetips-1"
   # CSS Plugins
   [[params.plugins.css]]
   URL = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
+  #[[params.plugins.css]]
+  #URL = "plugins/slick/slick.css"
   [[params.plugins.css]]
   URL = "plugins/themify-icons/themify-icons.css"
-  [[params.plugins.css]]
-  URL = "plugins/venobox/venobox.css"
+  #[[params.plugins.css]]
+  #URL = "plugins/venobox/venobox.css"
   [[params.plugins.css]]
   URL = "plugins/prism/prism.css"
 
@@ -30,16 +31,16 @@ disqusShortname = "codetips-1"
   URL = "plugins/jQuery/jquery.min.js"
   [[params.plugins.js]]
   URL = "plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/venobox/venobox.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/fuse.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/mark.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/search.js"
+  #[[params.plugins.js]]
+  #URL = "plugins/slick/slick.min.js"
+  #[[params.plugins.js]]
+  #URL = "plugins/venobox/venobox.min.js"
+  #[[params.plugins.js]]
+  #URL = "plugins/search/fuse.min.js"
+  #[[params.plugins.js]]
+  #URL = "plugins/search/mark.js"
+  #[[params.plugins.js]]
+  #URL = "plugins/search/search.js"
   [[params.plugins.js]]
   URL = "plugins/prism/prism.js"
 
@@ -103,7 +104,7 @@ copyright = "| @2019 [Code Tips](https://www.codetips.co.uk) All Rights Reserved
 
   # search
   [params.search]
-  enable = true
+  enable = false
 
 [params.about]
 enable = false

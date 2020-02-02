@@ -1,3 +1,9 @@
 [submodule "themes/liva"]
 	path = themes/liva
 	url = https://github.com/themefisher/liva-hugo.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/massively"]
+	path = themes/massively
+	url = https://github.com/curtistimson/hugo-theme-massively.git
