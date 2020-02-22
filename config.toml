@@ -31,8 +31,8 @@ disqusShortname = "codetips-1"
   URL = "plugins/jQuery/jquery.min.js"
   [[params.plugins.js]]
   URL = "plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
+  #[[params.plugins.js]]
+  #URL = "plugins/slick/slick.min.js"
   #[[params.plugins.js]]
   #URL = "plugins/venobox/venobox.min.js"
   #[[params.plugins.js]]
