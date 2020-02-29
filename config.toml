@@ -6,7 +6,7 @@ theme = "liva"
 summaryLength = "10"
 paginate = 6
 disqusShortname = "codetips-1"
-googleAnalytics = "UA-136690485-1"
+googleAnalitycsID = "UA-136690485-1"
 
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]
