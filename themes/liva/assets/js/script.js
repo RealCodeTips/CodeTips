@@ -32,6 +32,6 @@
   // });
 
   // venobox initialize
-  $('.venobox').venobox();
+  // $('.venobox').venobox();
 
 })(jQuery);
