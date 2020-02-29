@@ -85,6 +85,3 @@ getIngredientAmount(amount, people) {
 Now anything using this function will also use the updated requirement.
 
 This was just a very simple introduction to functions. There are more complex things we can do with them, but we'll cover that in a later article.
-
-Photo by [Maarten van den Heuvel](https://unsplash.com/photos/EzH46XCDQRY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/cooking?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
-

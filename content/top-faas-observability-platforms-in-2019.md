@@ -45,7 +45,7 @@ There are various monitoring and observability platforms that can keep tabs on y
 
 ## [Dashbird](www.dashbird.io)
 
-{{< figure src="/content/images/2019/06/dahsboard-view.gif" >}}
+![dashbird-dashboard-view](/images/post/top_faas_observability_platforms_in_2019_dashbird.jpg)
 
 Dashbird is a serverless observability platform that stands out significantly because of the platform’s ease of use, user-friendly interface, quality, and exceptional management. To use the Dashbird’s platform, there’s no changing your Lambdas whatsoever.
 
@@ -59,7 +59,7 @@ Debugging as well as error alerting is among the most critical features that Das
 
 ## [IOpipe](www.iopipe.com)
 
-{{< figure src="/content/images/2019/06/iopipe.png" >}}
+![iopipe-dashboard-view](/images/post/top_faas_observability_platforms_in_2019_iopipe.jpg)
 
 Another excellent function observability platform is IOpipe. It allows you to look into serverless applications when broken down into dozens or even hundreds of functions. IOpipe releases you of file digging and log searching. Seeing your function’s behavior, IOpipe can determine if there are errors in your function(s) and how to debug them. You’ll be notified instantly, and the monitoring will continue after the issue has been solved.
 
@@ -73,7 +73,7 @@ One of the main differentiators is that IOPipe warps the function and that means
 
 ## Epsagon
 
-{{< figure src="/content/images/2019/06/Screen-Shot-2019-03-09-at-19.55.16.png" >}}
+![epsagon-dashboard-view](/images/post/top_faas_observability_platforms_in_2019_epsagon.jpg)
 
 Epsagon is coming as a third choice in the top observability platforms since it offers automated monitoring and troubleshooting for modern applications. Epsagon allows its users to search through every trace, log, and payload thus saving countless hours of digging through Cloudwatch logs.
 

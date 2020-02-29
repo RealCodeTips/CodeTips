@@ -19,7 +19,7 @@ tags:
 slug: "translation-and-types"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 

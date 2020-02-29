@@ -26,7 +26,7 @@ type: "post"
 
 Each programming language has different data-types or names them differently, but most of them have a variation of these four:
 
-###Booleans
+### Booleans
 `Booleans` are simple binary values (`true` or `false`).
 ```
 isTrue = true
@@ -35,19 +35,19 @@ isFalse = false
 
 In our previous article about [if statements](https://codetips.co.uk/beginner/what-is-an-if-statement/) we showed you how programs determine between executing a block of code or not. The condition that is used for this can ultimately only have two outcomes: **do it** (`true`) or **don't do it** (`false`).
 
-###Integers
+### Integers
 `Integers` are whole numbers (with no decimal places).
 ```
 number = 5
 ```
 
-###Floats
+### Floats
 `Floats` are numbers that **can** have decimals, but do not always have to.
 ```
 number = 3.5
 ```
 
-###Strings
+### Strings
 `Strings` are simply a series of characters (like words, names or whole sentences)
 ```
 id = ckjasdiwe98213

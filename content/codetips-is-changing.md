@@ -20,7 +20,7 @@ categories:
 slug: "codetips-is-changing"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 
