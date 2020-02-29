@@ -11,11 +11,10 @@ image: "/images/post/writing_your_first_python_programme.jpg"
 description: "By the end of this article, you will have written a Python program that outputs a sentence based on a number of variables."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Python"
-  - "Beginner"
 
 slug: "writing-your-first-python-program"
 

@@ -13,9 +13,9 @@ description: "At the end of the last article ( \"Conditionals in Go\" ), we said
 # taxonomies
 categories:
   - "Coding Challenges"
+  - "Beginner Level Articles"
 tags:
   - "Go"
-  - "Beginner"
 
 slug: "conditionals-in-go-challenge-answer"
 

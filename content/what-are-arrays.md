@@ -11,10 +11,8 @@ image: "images/post/what_are_arrays.jpg"
 description: "Arrays are collections of data and can hold any data-type permitted by the language."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Beginner"
+categories:
+  - "Beginner Level Articles"
 
 slug: "what-are-arrays"
 

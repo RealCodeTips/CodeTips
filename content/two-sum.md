@@ -12,10 +12,10 @@ description: "Learn how to solve the Two Sum coding challenge, and how to measur
 
 # taxonomies
 categories:
-  - "Coding Challenges"
+	- "Coding Challenges"
+	- "Beginner Level Articles"
 tags:
   - "Go"
-  - "Beginner"
 
 slug: "two-sum"
 

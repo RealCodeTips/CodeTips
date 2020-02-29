@@ -11,10 +11,8 @@ image: "/images/post/what_is_a_switch_statement.jpg"
 description: "A switch statement evaluates a condition and provides multiple decision points, depending on the value."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Beginner"
+categories:
+  - "Beginner Level Articles"
 
 slug: "what-is-a-switch-statement"
 

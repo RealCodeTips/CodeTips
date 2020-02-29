@@ -11,11 +11,10 @@ image: "/images/post/table_driven_tests.jpg"
 description: "Learn how to use table-driven tests in Go, and how they can reduce duplication and make your tests more readable. "
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Go"
-  - "Beginner"
 
 slug: "table-driven-tests"
 

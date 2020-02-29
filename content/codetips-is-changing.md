@@ -13,9 +13,6 @@ description: "We are announcing three important changes to CodeTips and what it 
 # taxonomies
 categories:
   - "Meta"
-# tags:
-#   - "Go"
-#   - "Beginner"
 
 slug: "codetips-is-changing"
 

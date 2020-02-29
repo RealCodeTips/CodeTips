@@ -11,11 +11,10 @@ image: "images/post/conditionals_in_python.jpg"
 description: "In this article we're going to extend our programme to act differently depending on the age variable."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Python"
-  - "Beginner"
 
 slug: "conditionals-in-python"
 

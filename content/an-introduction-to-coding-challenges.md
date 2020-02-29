@@ -13,9 +13,7 @@ description: "An introduction to the Coding Challenge section. We'll talk about 
 # taxonomies
 categories:
   - "Coding Challenges"
-tags:
-  # - "Go"
-  - "Beginner"
+# tags:
 
 slug: "an-introduction-to-coding-challenges"
 

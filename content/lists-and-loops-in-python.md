@@ -11,11 +11,10 @@ image: "/images/post/lists_and_loops_in_python.jpg"
 description: "As you will learn, Arrays are typically immutable and can hold information (usually of one particular type) and store them along with an index value."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Python"
-  - "Beginner"
 
 slug: "lists-and-loops-in-python"
 

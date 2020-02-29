@@ -11,10 +11,8 @@ image: "images/post/what_is_pseudocode.jpg"
 description: "Pseudocode is used when you are trying to explain implementation details without the constraints of making it syntactically correct."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Beginner"
+categories:
+  - "Beginner Level Articles"
 
 slug: "what-is-pseudo-code"
 

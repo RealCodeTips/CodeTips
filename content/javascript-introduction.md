@@ -11,11 +11,10 @@ image: "/images/post/javascript_introduction.jpg"
 description: "JavaScript is a lightweight programming language. It is most well-known as the scripting language for Web pages."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "JavaScript"
-  - "Beginner"
 
 slug: "javascript-introduction"
 

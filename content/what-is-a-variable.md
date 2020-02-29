@@ -11,10 +11,8 @@ image: "images/post/what_is_a_variable.jpg"
 description: "Variables are used to store information once, referenced by an alias, and used multiple times throughout the code; reducing duplication."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Beginner"
+categories:
+  - "Beginner Level Articles"
 
 slug: "what-is-a-variable"
 

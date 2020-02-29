@@ -11,10 +11,8 @@ image: "/images/post/what_are_comments.jpg"
 description: "Comments are just notes for developers"
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Beginner"
+categories:
+  - "Beginner Level Articles"
 
 slug: "what-are-comments"
 

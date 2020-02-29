@@ -11,10 +11,8 @@ image: "images/post/what_are_loops.jpg"
 description: "Loops are a programming construct to perform a set task, or group of tasks until a given condition is met."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Beginner"
+categories:
+  - "Beginner Level Articles"
 
 slug: "what-are-loops"
 

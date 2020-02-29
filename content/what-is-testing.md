@@ -11,10 +11,8 @@ image: "/images/post/what_is_testing.jpg"
 description: It doesn't matter if you've been coding for five minutes, or five decades, you'll never write software that is perfect. Testing helps catch bugs!"
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Beginner"
+categories:
+  - "Beginner Level Articles"
 
 slug: "what-is-testing"
 

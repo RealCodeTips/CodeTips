@@ -11,10 +11,8 @@ image: "images/post/what_is_a_function.jpg"
 description: "A function is a predefined block of code that can be executed to perform a specific task"
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Beginner"
+categories:
+  - "Beginner Level Articles"
 
 slug: "what-is-a-function"
 

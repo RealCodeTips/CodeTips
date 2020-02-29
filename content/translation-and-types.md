@@ -11,10 +11,8 @@ image: "/images/post/translation_and_types.jpg"
 description: "Compiled vs Interpreted languages, Static vs Dynamic languages and Strongly-Types vs Weakly-Typed languages; we explain them all."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Intermediate"
+categories:
+  - "Intermediate Level Articles"
 
 slug: "translation-and-types"
 

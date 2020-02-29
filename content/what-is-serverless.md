@@ -11,11 +11,10 @@ image: "/images/post/what_is_serverless.jpg"
 description: "Serverless architecture is a type of cloud computing where the user writes code, that gets run by the service provider, without having the user manage the infrastructure."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Intermediate Level Articles"
 tags:
   - "Serverless"
-  - "Intermediate"
 
 slug: "what-is-serverless"
 

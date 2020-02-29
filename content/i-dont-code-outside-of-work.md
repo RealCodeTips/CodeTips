@@ -13,9 +13,6 @@ description: "Work life balance is important, don't feel like you HAVE to work i
 # taxonomies
 categories:
   - "Meta"
-# tags:
-#   - "Go"
-#   - "Beginner"
 
 slug: "i-dont-code-outside-of-work"
 

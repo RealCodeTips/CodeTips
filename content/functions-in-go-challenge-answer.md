@@ -11,11 +11,10 @@ image: "/images/post/functions_in_go_challenge_answer.jpg"
 description: "Learn how to use a boolean function parameter to conditionally print one of two statements, and reduce duplication."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Go"
-  - "Beginner"
 
 slug: "functions-in-go-challenge-answer"
 

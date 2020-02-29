@@ -11,11 +11,10 @@ image: "/images/post/arrays_and_loops_in_go.jpg"
 description: "In this article, we’re going to extend the programme from \"writing your first programme in Go\" and learn about Arrays and Loops."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Go"
-  - "Beginner"
 
 slug: "arrays-and-loops-in-go"
 

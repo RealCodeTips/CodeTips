@@ -11,10 +11,8 @@ image: "/images/post/what_is_an_object.jpg"
 description: "Objects can be seen as a big cupboard with lots of wooden drawers to store things in it. Learn about it in more detail here."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Beginner"
+categories:
+  - "Beginner Level Articles"
 
 slug: "what-is-an-object"
 

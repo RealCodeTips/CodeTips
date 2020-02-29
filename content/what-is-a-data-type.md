@@ -11,10 +11,8 @@ image: "images/post/what_is_a_data_type.jpg"
 description: "Bits of information always have a certain type in programming. Here we explain what those types are."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Beginner"
+categories:
+  - "Beginner Level Articles"
 
 slug: "what-is-a-data-type"
 

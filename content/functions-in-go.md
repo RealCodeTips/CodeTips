@@ -11,11 +11,10 @@ image: "/images/post/functions_in_go.jpg"
 description: "Functions allow us to reduce duplication and increase maintainability. Learn how to write functions in Go, step by step!"
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Go"
-  - "Beginner"
 
 slug: "functions-in-go"
 

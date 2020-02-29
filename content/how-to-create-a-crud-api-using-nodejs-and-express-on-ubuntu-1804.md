@@ -11,11 +11,10 @@ image: "/images/post/how_to_create_a_crud_api.jpg"
 description: "Learn how to create a CRUD API, using Node.js and Express"
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Intermediate Level Articles"
 tags:
   - "JavaScript"
-  - "Intermediate"
 
 slug: "how-to-create-a-crud-api-using-nodejs-and-express-on-ubuntu-1804"
 

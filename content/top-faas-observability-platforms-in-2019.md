@@ -11,11 +11,10 @@ image: "/images/post/top_faas_observability_platforms_in_2019.jpg"
 description: "Serverless is a special kind of beast and while it has a lot of benefits, it does lack in the observability department."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Intermediate Level Articles"
 tags:
   - "Serverless"
-  - "Intermediate"
 
 slug: "top-faas-observability-platforms-in-2019"
 

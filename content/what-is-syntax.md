@@ -11,10 +11,8 @@ image: "/images/post/what_is_syntax.jpg"
 description: "The syntax of a programming language is the set of rules, that define how to construct your code."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Beginner"
+categories:
+  - "Beginner Level Articles"
 
 slug: "what-is-syntax"
 

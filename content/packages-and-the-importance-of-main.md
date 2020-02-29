@@ -11,11 +11,10 @@ image: "/images/post/packages_and_the_importance_of_main.jpg"
 description: "Packages allow developers to organise and reuse code, and can be used in your programme by “importing” them. "
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Go"
-  - "Beginner"
 
 slug: "packages-and-the-importance-of-main"
 

@@ -11,11 +11,10 @@ image: "/images/post/python_introduction.jpg"
 description: "Python is an easy to read, easy to write, and powerful general-purpose, dynamically typed, interpreted object-oriented programming language."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Python"
-  - "Beginner"
 
 slug: "python-introduction"
 

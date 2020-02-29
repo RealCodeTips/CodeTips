@@ -11,11 +11,10 @@ image: "/images/post/structs_in_go.jpg"
 description: "Structs are typed collections of fields. We learn how to use them to reduce duplication and increase maintainability in a real programme."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Go"
-  - "Beginner"
 
 slug: "structs-in-go"
 

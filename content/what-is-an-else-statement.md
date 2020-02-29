@@ -11,10 +11,8 @@ image: "images/post/what_is_an_else_statement.jpg"
 description: "An else statement is a block of code to run when a condition is not met. The condition is first defined in an if statement."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
-tags:
-  - "Beginner"
+categories:
+  - "Beginner Level Articles"
 
 slug: "what-is-an-else-statement"
 

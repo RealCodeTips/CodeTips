@@ -11,11 +11,10 @@ image: "/images/post/arrays_and_loops_in_javascript.jpg"
 description: "In this article, we’re going to extend our programme and have it print out all of our hobbies using arrays and loops."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Go"
-  - "Beginner"
 
 slug: "arrays-and-loops-in-javascript"
 

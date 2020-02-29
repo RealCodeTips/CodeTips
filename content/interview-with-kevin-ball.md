@@ -13,9 +13,6 @@ description: "In this interview, we speak to Kevin Ball, founder of zendev and c
 # taxonomies
 categories:
   - "Interviews"
-# tags:
-#  - "Go"
-#  - "Beginner"
 
 slug: "interview-with-kevin-ball"
 

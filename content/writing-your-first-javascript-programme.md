@@ -11,11 +11,10 @@ image: "/images/post/writing_your_first_javascript_programme.jpg"
 description: "By the end of this article, you will have written a JavaScript programme that outputs a sentence based on a number of variables."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Javascript"
-  - "Beginner"
 
 slug: "writing-your-first-javascript-programme"
 

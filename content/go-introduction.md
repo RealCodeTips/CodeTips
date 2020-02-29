@@ -11,11 +11,10 @@ image: "/images/post/go_introduction.jpg"
 description: "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software."
 
 # taxonomies
-# categories:
-#   - "Beginner Level Articles"
+categories:
+  - "Beginner Level Articles"
 tags:
   - "Go"
-  - "Beginner"
 
 slug: "go-introduction"
 
