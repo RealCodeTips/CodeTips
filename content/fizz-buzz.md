@@ -12,11 +12,11 @@ description: "Learn how to complete the Fizz Buzz coding challenge."
 
 # taxonomies
 categories:
-	- "Coding Challenges"
-	- "Beginner Level Articles"
+- "Beginner Level Articles"
+- "Coding Challenges"
 tags:
-  - "Go"
-  - "Javascript"
+- "Go"
+- "Javascript"
 
 slug: "fizz-buzz"
 

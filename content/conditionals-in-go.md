@@ -12,8 +12,7 @@ description: "Conditional statements can be used to make decisions on what actio
 
 # taxonomies
 categories:
-	- "Coding Challenges"
-	- "Beginner Level Articles"
+  - "Beginner Level Articles"
 tags:
   - "Go"
 
