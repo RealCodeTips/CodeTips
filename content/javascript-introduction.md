@@ -12,9 +12,9 @@ description: "JavaScript is a lightweight programming language. It is most well-
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "JavaScript"
+- "JavaScript"
 
 slug: "javascript-introduction"
 

@@ -12,9 +12,9 @@ description: "Functions allow us to reduce duplication and increase maintainabil
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Go"
+- "Go"
 
 slug: "functions-in-go"
 

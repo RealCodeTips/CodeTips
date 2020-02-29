@@ -12,7 +12,7 @@ description: "A function is a predefined block of code that can be executed to p
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-is-a-function"
 

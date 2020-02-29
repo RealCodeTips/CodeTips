@@ -12,7 +12,7 @@ description: "Comments are just notes for developers"
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-are-comments"
 

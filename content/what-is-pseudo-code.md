@@ -12,7 +12,7 @@ description: "Pseudocode is used when you are trying to explain implementation d
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-is-pseudo-code"
 

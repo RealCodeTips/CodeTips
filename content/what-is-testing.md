@@ -12,7 +12,7 @@ description: It doesn't matter if you've been coding for five minutes, or five d
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-is-testing"
 

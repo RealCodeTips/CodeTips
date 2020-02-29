@@ -12,7 +12,7 @@ description: "Compiled vs Interpreted languages, Static vs Dynamic languages and
 
 # taxonomies
 categories:
-  - "Intermediate Level Articles"
+- "Intermediate Level Articles"
 
 slug: "translation-and-types"
 

@@ -12,9 +12,9 @@ description: "Go is an open source programming language that makes it easy to bu
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Go"
+- "Go"
 
 slug: "go-introduction"
 

@@ -12,7 +12,7 @@ description: "An else statement is a block of code to run when a condition is no
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-is-an-else-statement"
 

@@ -12,7 +12,7 @@ description: "The syntax of a programming language is the set of rules, that def
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-is-syntax"
 

@@ -12,9 +12,9 @@ description: "By the end of this article, you will have written a JavaScript pro
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Javascript"
+- "JavaScript"
 
 slug: "writing-your-first-javascript-programme"
 

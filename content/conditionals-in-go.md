@@ -12,9 +12,9 @@ description: "Conditional statements can be used to make decisions on what actio
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Go"
+- "Go"
 
 slug: "conditionals-in-go"
 

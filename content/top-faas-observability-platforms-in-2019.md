@@ -12,9 +12,9 @@ description: "Serverless is a special kind of beast and while it has a lot of be
 
 # taxonomies
 categories:
-  - "Intermediate Level Articles"
+- "Intermediate Level Articles"
 tags:
-  - "Serverless"
+- "Serverless"
 
 slug: "top-faas-observability-platforms-in-2019"
 

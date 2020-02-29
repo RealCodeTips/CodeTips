@@ -12,9 +12,9 @@ description: "By the end of this article, you will have written a Go programme t
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Go"
+- "Go"
 
 slug: "writing-your-first-go-programme"
 

@@ -12,7 +12,7 @@ description: "Arrays are collections of data and can hold any data-type permitte
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-are-arrays"
 

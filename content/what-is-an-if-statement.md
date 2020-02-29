@@ -12,7 +12,7 @@ description: "Variables are used to store information once, referenced by an ali
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-is-an-if-statement"
 

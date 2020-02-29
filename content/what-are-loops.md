@@ -12,7 +12,7 @@ description: "Loops are a programming construct to perform a set task, or group 
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-are-loops"
 

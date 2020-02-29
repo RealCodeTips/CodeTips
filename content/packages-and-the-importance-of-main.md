@@ -12,9 +12,9 @@ description: "Packages allow developers to organise and reuse code, and can be u
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Go"
+- "Go"
 
 slug: "packages-and-the-importance-of-main"
 

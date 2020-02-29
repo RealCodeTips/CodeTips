@@ -12,7 +12,7 @@ description: "Objects can be seen as a big cupboard with lots of wooden drawers 
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-is-an-object"
 

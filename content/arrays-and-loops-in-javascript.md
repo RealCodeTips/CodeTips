@@ -12,9 +12,9 @@ description: "In this article, we’re going to extend our programme and have it
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Go"
+- "Go"
 
 slug: "arrays-and-loops-in-javascript"
 

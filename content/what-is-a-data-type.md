@@ -12,7 +12,7 @@ description: "Bits of information always have a certain type in programming. Her
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-is-a-data-type"
 

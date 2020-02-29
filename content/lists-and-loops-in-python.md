@@ -12,9 +12,9 @@ description: "As you will learn, Arrays are typically immutable and can hold inf
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Python"
+- "Python"
 
 slug: "lists-and-loops-in-python"
 

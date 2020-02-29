@@ -12,9 +12,9 @@ description: "Python is an easy to read, easy to write, and powerful general-pur
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Python"
+- "Python"
 
 slug: "python-introduction"
 

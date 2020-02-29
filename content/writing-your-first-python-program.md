@@ -12,9 +12,9 @@ description: "By the end of this article, you will have written a Python program
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Python"
+- "Python"
 
 slug: "writing-your-first-python-program"
 

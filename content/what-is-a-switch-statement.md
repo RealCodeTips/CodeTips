@@ -12,7 +12,7 @@ description: "A switch statement evaluates a condition and provides multiple dec
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-is-a-switch-statement"
 

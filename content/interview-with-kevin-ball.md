@@ -12,7 +12,7 @@ description: "In this interview, we speak to Kevin Ball, founder of zendev and c
 
 # taxonomies
 categories:
-  - "Interviews"
+- "Interviews"
 
 slug: "interview-with-kevin-ball"
 

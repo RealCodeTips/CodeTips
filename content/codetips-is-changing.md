@@ -12,7 +12,7 @@ description: "We are announcing three important changes to CodeTips and what it 
 
 # taxonomies
 categories:
-  - "Meta"
+- "Meta"
 
 slug: "codetips-is-changing"
 

@@ -12,9 +12,9 @@ description: "Learn how to use table-driven tests in Go, and how they can reduce
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Go"
+- "Go"
 
 slug: "table-driven-tests"
 

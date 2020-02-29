@@ -12,9 +12,9 @@ description: "In this article we're going to extend our programme to act differe
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Python"
+- "Python"
 
 slug: "conditionals-in-python"
 

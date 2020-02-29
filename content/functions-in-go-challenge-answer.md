@@ -12,9 +12,9 @@ description: "Learn how to use a boolean function parameter to conditionally pri
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Go"
+- "Go"
 
 slug: "functions-in-go-challenge-answer"
 

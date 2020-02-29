@@ -12,9 +12,9 @@ description: "Structs are typed collections of fields. We learn how to use them 
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 tags:
-  - "Go"
+- "Go"
 
 slug: "structs-in-go"
 

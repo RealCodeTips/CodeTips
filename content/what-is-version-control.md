@@ -12,7 +12,7 @@ description: "Version Control helps you keep track of your data and allows you t
 
 # taxonomies
 categories:
-  - "Beginner Level Articles"
+- "Beginner Level Articles"
 
 slug: "what-is-version-control"
 

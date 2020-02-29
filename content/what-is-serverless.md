@@ -12,9 +12,9 @@ description: "Serverless architecture is a type of cloud computing where the use
 
 # taxonomies
 categories:
-  - "Intermediate Level Articles"
+- "Intermediate Level Articles"
 tags:
-  - "Serverless"
+- "Serverless"
 
 slug: "what-is-serverless"
 
