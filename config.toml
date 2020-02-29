@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://static.codetips.co.uk"
+baseURL = "https://www.codetips.co.uk"
 languageCode = "en-us"
 title = "Code Tips | Learn to code using short, easy to understand, articles"
 theme = "liva"
